@@ -1,0 +1,12 @@
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.exe
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.exe
+C:\Users\Vitalyi\Downloads\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.exe
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.exe
+C:\Users\Vitalyi\Desktop\учеба\C#\C#2\CSharpLevel2-Lesson_1\CSharpLevel2-Lesson_1\Lesson1\MyGame\obj\Debug\MyGame.pdb
